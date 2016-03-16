@@ -1,0 +1,28 @@
+{
+  "name": "check-args",
+  "version": "0.1.0",
+  "description": "check args in a function",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szhangpitt/check-args.git"
+  },
+  "keywords": [
+    "javascript",
+    "function",
+    "arguments"
+  ],
+  "author": "Shaopeng Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/szhangpitt/check-args/issues"
+  },
+  "homepage": "https://github.com/szhangpitt/check-args#readme",
+  "devDependencies": {
+    "chai": "~3.5.0",
+    "mocha": "~2.4.5"
+  }
+}
